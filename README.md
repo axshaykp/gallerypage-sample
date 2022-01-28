@@ -1,3 +1,3 @@
 # gallerypage-sample
 
-[Demo](https://gallerypage-sample.pages.dev/)
+[Demo](https://gallerypage-sample.pages.dev/ 'Gallery Page')
